@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container{
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+    
+  h1{
+    color: rgb(65, 190, 92);
+    }
+  
+  img{
+    width: 220px;
+  }
